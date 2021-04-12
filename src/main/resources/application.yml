@@ -1,0 +1,14 @@
+application:
+  email:
+    server:
+      host: "YOUR_EMAIL_SERVER_HOST"
+      port: 0 # your email server port
+      username: ""
+      password: ""
+    messages:
+      demoMessage:
+        from: code.snippet@email.com
+        to: user1@email.com, user2@email.com
+        cc: user3@email.com, user4@email.com
+        subject: Code snippet demo
+        body: This is an automated message for mail code snippet demo app
