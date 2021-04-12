@@ -1,5 +1,6 @@
-package com.example.emailsnippet.model;
+package com.example.emailsnippet.config.email;
 
+import com.example.emailsnippet.model.EmailMessage;
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
